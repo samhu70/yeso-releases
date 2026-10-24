@@ -10,9 +10,9 @@ Yeso 的官方安装包、签名更新包和版本说明发布仓库。
 
 ## Release status / 发布状态
 
-No installer release has been published yet. Downloads will be available here after validation and publication.
+Download installers and signed updates from Releases. Read the release notes for platform requirements, preview limitations, and validation status.
 
-目前尚未发布安装包；完成验证和正式发布后，可在 Releases 下载。
+请在 Releases 下载对应系统的安装包和签名更新；使用前请阅读版本说明中的系统要求、预览限制与验证状态。
 
 ## Repository purpose / 仓库用途
 
